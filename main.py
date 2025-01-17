@@ -131,11 +131,13 @@ def updateChannelUrlsM3U(channels, template_channels):
     #         if announcement['name'] is None:
     #             announcement['name'] = current_date
 
-    with open("live_ipv4.m3u", "w", encoding="utf-8") as f_m3u:    # 写出的m3u文件名
+    # 写出的m3u文件名
+    with open("live_ipv4.m3u", "w", encoding="utf-8") as f_m3u:
         # 写入 M3U 文件头部信息，包括 EPG URL 列表
         f_m3u.write(f"""#EXTM3U x-tvg-url={",".join(f'"{epg_url}"' for epg_url in config.epg_urls)}\n""")
 
-        with open("live_ipv4.txt", "w", encoding="utf-8") as f_txt:      # 写出的txt文件名
+        # 写出的txt文件名
+        with open("live_ipv4.txt", "w", encoding="utf-8") as f_txt:
             # 注释掉这一段代码
             # for group in config.announcements:
             #     f_txt.write(f"{group['channel']},#genre#\n")
