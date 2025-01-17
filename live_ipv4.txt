@@ -230,7 +230,6 @@ CCTV7,http://ttkx.cc:1258/8585/mg9.php?id=cctv7
 CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8
 CCTV7,http://tv.kmhlzxs.top:35455/gaoma/cctv7.m3u8
 CCTV7,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=127
-CCTV8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 CCTV8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8$移动|回看
 CCTV8,http://183.66.13.82:60033/tsfile/live/0008_1.m3u8
 CCTV8,http://111.160.17.2:59901/tsfile/live/0001_9.m3u8$联通酒店
@@ -487,8 +486,6 @@ CCTV17,http://ttkx.cc:1258/8585/mg9.php?id=cctv17
 CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
 CCTV17,http://tv.kmhlzxs.top:35455/gaoma/cctv17.m3u8
 CCTV17,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=204
-CCTV8K,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1$江苏移动IPv4#http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8$央视频1080P#https://tv.cry33.com/ys4k.php?id=8k$php代理源#http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3$已失效#http://[2409:8087:2001:20:2800:0:df6e:eb02]/PLTV/1/224/3221230960/1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb02]/PLTV/1/224/3221230960/1.m3u8
-CCTV8K,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8$蓝光#http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603465.m3u8$菁彩声
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202$官方源
 CETV1,http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8$移动|回看
 CETV1,http://tvbox6.com/tv//zb/bjcucc.php?id=27$北京联通组播
