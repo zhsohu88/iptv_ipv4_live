@@ -148,7 +148,11 @@ def updateChannelUrlsM3U(channels, template_channels):
 
                             for index, url in enumerate(filtered_urls, start=1):  # 遍历过滤后的 URL，并从 1 开始计数
                                 new_url = url  # 不对 URL 进行任何修改
-
+                                # 写入 M3U 文件中的频道信息
+                                f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
+                                f_m3u.write(new_url + "\n")
+                                # 写入 TXT 文件中的频道信息
+                                f_txt.write(f"{channel_name},{new_url}\n")
             f_txt.write("\n")  # 添加空行以分隔不同部分
 
 if __name__ == "__main__":
