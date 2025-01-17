@@ -45,11 +45,12 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"  # 配置本地 Git 用户邮箱
         git config --local user.name "github-actions[bot]"  # 配置本地 Git 用户名
         git add -A  # 添加所有更改
-        if ! git diff --staged --quiet; then  # 如果有未提交的更改
-          git commit -m "Update live files with available URLs"  # 提交更改，提交信息为“Update playlist with available URLs”
-          # git commit -m "Auto-update live files"  # 提交更改，提交信息为“Auto-update live files”
-          git push  # 推送更改
-        fi
+        # 检查工作区和暂存区都有更改时提交更改并推送
+        git diff --quiet && git diff --staged --quiet || (git commit -m “Auto-update live files” && git push)
+        # if ! git diff --staged --quiet; then  # 如果有未提交的更改
+             # git commit -m "Auto-update live files"  # 提交更改，提交信息为“Auto-update live files”
+             #git push  # 推送更改
+        # fi
 
     env:
       TZ: Asia/Shanghai  # 环境变量：设置时区为亚洲/上海
