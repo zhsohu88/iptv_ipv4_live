@@ -90,7 +90,8 @@ url_blacklist = [
     "22725y284r.yicp.fun:9902",
     "60.10.139.10:8801",
     "159.75.85.63:35455",
-    "openhls-tct.douyucdn2.cn"
+    "openhls-tct.douyucdn2.cn",
+    "223.105.252.57/PLTV/3/224/3221228165"
 ]
 
 announcements = [
