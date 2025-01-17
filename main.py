@@ -124,13 +124,6 @@ def is_ipv6(url):
 def updateChannelUrlsM3U(channels, template_channels):
     written_urls = set()  # 创建一个集合来存储已写入的 URL，以避免重复
 
-    # 注释掉这一段代码
-    # current_date = datetime.now().strftime("%Y-%m-%d")
-    # for group in config.announcements:
-    #     for announcement in group['entries']:
-    #         if announcement['name'] is None:
-    #             announcement['name'] = current_date
-
     # 写出的m3u文件名
     with open("live_ipv4.m3u", "w", encoding="utf-8") as f_m3u:
         # 写入 M3U 文件头部信息，包括 EPG URL 列表
@@ -138,14 +131,6 @@ def updateChannelUrlsM3U(channels, template_channels):
 
         # 写出的txt文件名
         with open("live_ipv4.txt", "w", encoding="utf-8") as f_txt:
-            # 注释掉这一段代码
-            # for group in config.announcements:
-            #     f_txt.write(f"{group['channel']},#genre#\n")
-            #     for announcement in group['entries']:
-            #         f_m3u.write(f"""#EXTINF:-1 tvg-id="1" tvg-name="{announcement['name']}" tvg-logo="{announcement['logo']}" group-title="{group['channel']}",{announcement['name']}\n""")
-            #         f_m3u.write(f"{announcement['url']}\n")
-            #         f_txt.write(f"{announcement['name']},{announcement['url']}\n")
-
             for category, channel_list in template_channels.items():  # 遍历模板中的频道分类
                 f_txt.write(f"{category},#genre#\n")  # 写入每个频道分类
                 if category in channels:  # 如果频道分类存在于获取的频道列表中
@@ -162,24 +147,7 @@ def updateChannelUrlsM3U(channels, template_channels):
                                         written_urls.add(url)  # 将 URL 添加到已写入的 URL 集合中
 
                             for index, url in enumerate(filtered_urls, start=1):  # 遍历过滤后的 URL，并从 1 开始计数
-                                # 注释掉在链接后面加东西的代码
-                                # if is_ipv6(url):
-                                #     url_suffix = f"$LR•IPV6" if total_urls == 1 else f"$LR•IPV6『线路{index}』"
-                                # else:
-                                #     url_suffix = f"$LR•IPV4" if total_urls == 1 else f"$LR•IPV4『线路{index}』"
-                                # if '$' in url:
-                                #     base_url = url.split('$', 1)[0]
-                                # else:
-                                #     base_url = url
-
-                                # new_url = f"{base_url}{url_suffix}"
                                 new_url = url  # 不对 URL 进行任何修改
-
-                                # 写入 M3U 文件中的频道信息
-                                f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/{channel_name}.png\" group-title=\"{category}\",{channel_name}\n")
-                                f_m3u.write(new_url + "\n")
-                                # 写入 TXT 文件中的频道信息
-                                f_txt.write(f"{channel_name},{new_url}\n")
 
             f_txt.write("\n")  # 添加空行以分隔不同部分
 
