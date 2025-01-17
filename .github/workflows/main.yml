@@ -1,0 +1,49 @@
+name: 汇聚多源每日更新
+
+on:
+  # schedule:
+    # - cron: '45 21 * * *'  # 定时计划：每天 UTC 时间 21:45 触发（当前注释掉）
+  workflow_dispatch:  # 手动触发工作流
+    # branches:
+      # - main  # 分支：main（当前注释掉）
+
+jobs:
+  run_script:  # 工作名称：运行脚本
+    runs-on: ubuntu-latest  # 运行环境：最新版本的 Ubuntu
+
+    steps:
+    - name: Checkout repository  # 步骤名称：检出代码库
+      uses: actions/checkout@v2  # 使用 actions/checkout@v2 操作
+
+    - name: Set up Python  # 步骤名称：设置 Python
+      uses: actions/setup-python@v2  # 使用 actions/setup-python@v2 操作
+      with:
+        python-version: '3.10'  # Python 版本：3.10
+
+    - name: Cache dependencies  # 步骤名称：缓存依赖
+      uses: actions/cache@v2  # 使用 actions/cache@v2 操作
+      with:
+        path: ~/.cache/pip  # 缓存路径：~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}  # 缓存键：操作系统-pip-文件哈希
+        restore-keys: |
+          ${{ runner.os }}-pip-  # 恢复键：操作系统-pip-
+
+    - name: Install dependencies  # 步骤名称：安装依赖
+      run: |
+        pip install requests  # 运行命令：安装 requests 包
+
+    - name: Run Python script  # 步骤名称：运行 Python 脚本
+      run: python main.py  # 运行命令：python main.py
+
+    - name: Commit and push if changed  # 步骤名称：如果有更改则提交并推送
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"  # 配置本地 Git 用户邮箱
+        git config --local user.name "github-actions[bot]"  # 配置本地 Git 用户名
+        git add -A  # 添加所有更改
+        if ! git diff --staged --quiet; then  # 如果有未提交的更改
+          git commit -m "Auto-update live files"  # 提交更改，提交信息为“Auto-update live files”
+          git push  # 推送更改
+        fi
+
+    env:
+      TZ: Asia/Shanghai  # 环境变量：设置时区为亚洲/上海
