@@ -89,7 +89,7 @@ url_blacklist = [
     "hlsbkmgsplive.miguvideo.com",
     "22725y284r.yicp.fun:9902",
     "60.10.139.10:8801",
-    "http://159.75.85.63:35455",
+    "159.75.85.63:35455",
     "openhls-tct.douyucdn2.cn"
 ]
 
