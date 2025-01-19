@@ -2759,6 +2759,12 @@ http://60.255.240.247:8090/live/zgqx_4000.m3u8
 http://tvbox6.icu/tv/gdmzyd.php?id=100
 #EXTINF:-1 tvg-id="3" tvg-name="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中国天气.png" group-title="其他频道",中国天气
 http://vapi.91kds.cc/live1/cqyx.m3u8?id=zgqx&apiKey=73c963d13814ce7d0e4743c5e7d033cc
+#EXTINF:-1 tvg-id="1" tvg-name="耀才财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/耀才财经.png" group-title="韩国频道",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="耀才财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/耀才财经.png" group-title="韩国频道",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="耀才财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/耀才财经.png" group-title="韩国频道",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="JJ斗地主" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/JJ斗地主.png" group-title="娱乐频道",JJ斗地主
 http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 tvg-id="2" tvg-name="JJ斗地主" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/JJ斗地主.png" group-title="娱乐频道",JJ斗地主
