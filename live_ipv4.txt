@@ -1,8 +1,4 @@
 央视频道,#genre#
-CCTV1,http://59.173.183.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 CCTV1,http://106.53.99.30/dl/cctv1.m3u8
 CCTV1,http://106.53.99.30/dl/bjyd.php?id=1$北京移动
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8$移动|回看
@@ -47,13 +43,10 @@ CCTV1,http://ttkx.cc:1258/8585/mg9.php?id=cctv1
 CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
 CCTV1,http://tv.kmhlzxs.top:35455/gaoma/cctv1.m3u8
 CCTV2,http://58.57.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://59.173.183.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://113.57.20.158:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://119.163.199.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://182.117.136.117:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV2,https://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2,http://106.53.99.30/dl/bjyd.php?id=2$北京移动
 CCTV2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8$移动|回看
 CCTV2,http://183.66.13.82:60033/tsfile/live/0002_1.m3u8
@@ -93,11 +86,8 @@ CCTV2,http://223.105.252.60/PLTV/4/224/3221228720/index.m3u8?servicetype=1
 CCTV2,http://ttkx.cc:1258/8585/mg9.php?id=cctv2
 CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
 CCTV2,http://tv.kmhlzxs.top:35455/gaoma/cctv2.m3u8
-CCTV3,http://59.173.183.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://222.71.95.178:9901/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV3,http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 CCTV3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8$移动|回看
 CCTV3,http://183.66.13.82:60033/tsfile/live/0003_1.m3u8
@@ -134,11 +124,8 @@ CCTV3,http://223.105.252.60/PLTV/4/224/3221228237/index.m3u8?servicetype=1
 CCTV3,http://ttkx.cc:1258/8585/mg9.php?id=cctv3
 CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8
 CCTV3,http://tv.kmhlzxs.top:35455/gaoma/cctv3.m3u8
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://58.57.21.166:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://222.71.95.178:9901/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV4,http://106.53.99.30/dl/bjyd.php?id=3$北京移动
 CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8$移动|回看
 CCTV4,http://183.66.13.82:60033/tsfile/live/0004_1.m3u8
@@ -174,8 +161,6 @@ CCTV4,http://tv.kmhlzxs.top:35455/gaoma/cctv4.m3u8
 CCTV5,rtsp://[2409:8087:2001:20:2800:0:df6e:eb21]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv5_CR
 CCTV5,http://182.117.136.117:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://222.71.95.178:9901/tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
 CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8$移动|回看
 CCTV5,http://183.66.13.82:60033/tsfile/live/0005_1.m3u8
@@ -216,7 +201,6 @@ CCTV5+,rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/00000040
 CCTV5+,http://www.zzlag.top:9087/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV5+,http://221.225.236.123:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://36.35.16.98:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV5+,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
 CCTV5+,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5p
 CCTV5+,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0
@@ -224,7 +208,6 @@ CCTV5+,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key
 CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8$移动|回看
 CCTV5+,http://111.160.17.2:59901/tsfile/live/0001_6.m3u8$联通酒店
 CCTV5+,http://117.161.12.116/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://120.224.178.16:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://111.160.17.2:59901/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
@@ -241,12 +224,9 @@ CCTV5+,http://223.105.252.60/PLTV/4/224/3221228076/index.m3u8?servicetype=1
 CCTV5+,https://tvpull.careryun.com/tv/cctv5+.m3u8
 CCTV5+,http://tv.kmhlzxs.top:35455/gaoma/cctv5p.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://59.173.183.242:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://59.62.8.250:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/512/2013693901.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/549/2013693901.m3u8
 CCTV6,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8$移动|回看
@@ -289,9 +269,7 @@ CCTV6,http://tv.kmhlzxs.top:35455/gaoma/cctv6.m3u8
 CCTV7,http://58.57.21.166:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://119.163.199.98:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://222.71.95.178:9901/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV7,http://59.62.8.250:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,http://106.53.99.30/dl/bjyd.php?id=4$北京移动
 CCTV7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8$移动|回看
 CCTV7,http://183.66.13.82:60033/tsfile/live/0007_1.m3u8
@@ -328,9 +306,7 @@ CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8
 CCTV7,http://tv.kmhlzxs.top:35455/gaoma/cctv7.m3u8
 CCTV8,http://119.163.199.98:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://222.71.95.178:9901/tsfile/live/0001_8.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://58.19.38.162:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV8,http://59.62.8.250:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8$移动|回看
 CCTV8,http://183.66.13.82:60033/tsfile/live/0008_1.m3u8
 CCTV8,http://111.160.17.2:59901/tsfile/live/0001_9.m3u8$联通酒店
@@ -369,9 +345,7 @@ CCTV9,http://119.163.199.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&a
 CCTV9,http://125.114.241.240:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://222.71.95.178:9901/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://116.128.224.11:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,http://58.19.38.162:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV9,http://59.62.8.250:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,http://106.53.99.30/dl/bjyd.php?id=5$北京移动
 CCTV9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8$移动|回看
 CCTV9,http://183.66.13.82:60033/tsfile/live/0009_1.m3u8
@@ -407,9 +381,7 @@ CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8
 CCTV9,http://tv.kmhlzxs.top:35455/gaoma/cctv9.m3u8
 CCTV10,http://182.117.136.117:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://182.117.136.16:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://58.19.38.162:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV10,http://59.62.8.250:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10,http://106.53.99.30/dl/bjyd.php?id=6$北京移动
 CCTV10,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8$移动|回看
 CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8$移动高清|回看
@@ -444,12 +416,9 @@ CCTV10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersi
 CCTV10,http://ttkx.cc:1258/8585/mg9.php?id=cctv10
 CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
 CCTV10,http://tv.kmhlzxs.top:35455/gaoma/cctv10.m3u8
-CCTV11,http://59.173.183.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://125.114.241.240:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://119.163.199.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://58.19.38.162:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV11,http://59.62.8.250:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV11,hhttp://59.62.8.250:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://106.53.99.30/dl/bjyd.php?id=7$北京移动
 CCTV11,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8$移动|回看
@@ -482,12 +451,9 @@ CCTV11,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-11sd/1500.m3u8?innersi
 CCTV11,http://ttkx.cc:1258/8585/mg9.php?id=cctv11
 CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8
 CCTV11,http://tv.kmhlzxs.top:35455/gaoma/cctv11.m3u8
-CCTV12,http://59.173.183.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://59.173.243.210:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://119.163.199.98:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://58.19.38.162:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV12,http://59.62.8.250:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,http://106.53.99.30/dl/bjyd.php?id=8$北京移动
 CCTV12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8$移动|回看
 CCTV12,http://183.66.13.82:60033/tsfile/live/0012_1.m3u8
@@ -520,12 +486,9 @@ CCTV12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersi
 CCTV12,http://ttkx.cc:1258/8585/mg9.php?id=cctv12
 CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
 CCTV12,http://tv.kmhlzxs.top:35455/gaoma/cctv12.m3u8
-CCTV13,http://59.173.183.242:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://182.117.136.117:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://58.57.21.166:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV13,http://59.62.8.250:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,http://106.53.99.30/dl/bjyd.php?id=9$北京移动
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8$移动|回看
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8$移动高清|回看
@@ -535,7 +498,6 @@ CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联通酒店
 CCTV13,http://1.197.249.194:9901/tsfile/live/0013_1.m3u8$河南电信酒店
 CCTV13,http://58.20.77.182:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV13,http://117.161.12.116/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://120.224.178.16:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://111.160.17.2:59901/tsfile/live/0001_14.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://124.128.73.58:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -560,9 +522,7 @@ CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8
 CCTV13,http://tv.kmhlzxs.top:35455/gaoma/cctv13.m3u8
 CCTV14,http://119.163.199.98:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://182.117.136.117:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://58.19.38.162:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV14,http://59.62.8.250:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://106.53.99.30/dl/bjyd.php?id=10$北京移动
 CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8$移动|回看
 CCTV14,http://183.66.13.82:60033/tsfile/live/0014_1.m3u8
@@ -596,10 +556,7 @@ CCTV14,http://ttkx.cc:1258/8585/mg9.php?id=cctv14
 CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8
 CCTV14,http://tv.kmhlzxs.top:35455/gaoma/cctv14.m3u8
 CCTV15,http://119.163.199.98:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://59.173.183.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://58.19.38.162:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV15,http://106.53.99.30/dl/bjyd.php?id=11$北京移动
 CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8$移动|回看
 CCTV15,http://183.66.13.82:60033/tsfile/live/0015_1.m3u8
@@ -635,7 +592,6 @@ CCTV16,http://www.zzlag.top:9087/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&d
 CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://123.189.36.103:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8$移动|回看
 CCTV16,http://111.160.17.2:59901/tsfile/live/0001_17.m3u8$联通酒店
@@ -656,7 +612,6 @@ CCTV17,http://180.213.174.231:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 CCTV17,http://123.189.36.103:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://36.35.16.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://36.249.151.144:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://106.53.99.30/dl/bjyd.php?id=12$北京移动
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8$移动|回看
 CCTV17,http://111.160.17.2:59901/tsfile/live/0001_18.m3u8$联通酒店
@@ -685,18 +640,15 @@ CETV1,http://dassby.qqff.top:99/live/中央教育高清/index.m3u8
 CETV1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202$官方源
 CETV1,http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8$移动|回看
 CETV1,http://tvbox6.com/tv//zb/bjcucc.php?id=27$北京联通组播
-CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=135
 CETV2,http://211.162.39.193:81/live/CETV2-1500k/live.m3u8
 CETV2,http://tvbox6.com/tv//zb/bjcucc.php?id=28$北京联通组播
-CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV2,http://183.11.239.36:808/hls/78/index.m3u8
 CETV2,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=492
 CETV4,http://211.162.39.193:81/live/CETV4-1500k/live.m3u8
 CETV4,http://218.71.45.167:9999/udp/233.50.201.172:5140
 CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8$移动|回看
 CETV4,http://tvbox6.com/tv//zb/bjcucc.php?id=30$北京联通组播
-CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,http://183.11.239.36:808/hls/79/index.m3u8
 CCTV世界地理,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=sjdl&apiKey=73c963d13814ce7d0e4743c5e7d033cc$cdn酒店源
 CCTV世界地理,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172003.m3u8$央视频1080P
@@ -734,7 +686,6 @@ CCTV怀旧剧场,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171903.m
 CCTV怀旧剧场,http://vapi.91kds.cc/live1/cqyx.m3u8?id=hjjc&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 CCTV第一剧场,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=dyjc&apiKey=73c963d13814ce7d0e4743c5e7d033cc$cdn酒店源
 CCTV第一剧场,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m3u8$央视频1080P
-CCTV第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV第一剧场,http://tvbox6.icu/tv/iptv2.php?id=31
 CCTV第一剧场,http://121.19.134.139:808/tsfile/live/1033_1.m3u8
 CCTV第一剧场,http://121.19.134.139:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -743,7 +694,6 @@ CCTV第一剧场,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m
 CCTV第一剧场,http://vapi.91kds.cc/live1/cqyx.m3u8?id=dyjc&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 CCTV风云足球,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=fyzq&apiKey=73c963d13814ce7d0e4743c5e7d033cc$cdn酒店源
 CCTV风云足球,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8$央视频1080P
-CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8
 CCTV风云足球,http://183.11.239.36:808/hls/133/index.m3u8
@@ -753,7 +703,6 @@ CCTV风云足球,http://112.234.21.109:9901/tsfile/live/1031_1.m3u8
 CCTV风云足球,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 CCTV风云足球,http://vapi.91kds.cc/live1/cqyx.m3u8?id=fyzq&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 CCTV老故事,http://nas.hssvm.com:8888/udp/225.1.1.188:5002
-CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=cctvnews&apiKey=73c963d13814ce7d0e4743c5e7d033cc$cdn酒店源
 CGTN,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181703.m3u8$央视频1080P
 CGTN,http://61.190.129.195:8688/rtp/238.1.78.50:6272
@@ -769,14 +718,12 @@ CGTN,p3p://167.114.175.6:55331/63ec50f4000113f9e455fe7b1ca5372f
 CGTN,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181703.m3u8
 CGTN,http://vapi.91kds.cc/live1/cqyx.m3u8?id=cctvnews&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 CGTN,http://222.209.17.49:808/hls/37/index.m3u8
-CGTN阿拉伯语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
 CGTN阿拉伯语,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=cctva&apiKey=73c963d13814ce7d0e4743c5e7d033cc$cdn酒店源
 CGTN阿拉伯语,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182003.m3u8$央视频1080P
 CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN阿拉伯语,http://183.11.239.36:808/hls/84/index.m3u8
 CGTN阿拉伯语,http://120.76.248.139/live/bfgd/4200000308.m3u8
 CGTN阿拉伯语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=308
-CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
 CGTN俄语,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=cctvr&apiKey=73c963d13814ce7d0e4743c5e7d033cc$cdn酒店源
 CGTN俄语,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181903.m3u8$央视频1080P
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -787,7 +734,6 @@ CGTN俄语,https://liveru.cgtn.com/500r/prog_index.m3u8$官方源
 CGTN俄语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=309
 CGTN俄语,p3p://167.114.175.6:55331/60e648570006544872703d417386353f
 CGTN俄语,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181903.m3u8
-CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
 CGTN法语,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=cctvf&apiKey=73c963d13814ce7d0e4743c5e7d033cc$cdn酒店源
 CGTN法语,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181803.m3u8$央视频1080P
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -800,15 +746,12 @@ CGTN法语,http://hms3659nc3747353871.live.aikan.miguvideo.com/wh7f454c46tw17528
 CGTN法语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=307
 CGTN法语,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181803.m3u8
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN西班牙语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
 CGTN西班牙语,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=cctve&apiKey=73c963d13814ce7d0e4743c5e7d033cc$cdn酒店源
 CGTN西班牙语,http://103.1.169.56/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182103.m3u8$央视频1080P
 CGTN西班牙语,http://183.11.239.36:808/hls/81/index.m3u8
 CGTN西班牙语,http://120.76.248.139/live/bfgd/4200000306.m3u8
 CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=306
 卫视频道,#genre#
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 湖南卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000006692
 湖南卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000018044
 湖南卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265024
@@ -837,7 +780,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 湖南卫视,http://60.29.124.66:6080/hls/34/index.m3u8$天津联通酒店
 湖南卫视,http://1.197.249.194:9901/tsfile/live/0128_1.m3u8$河南电信酒店
 湖南卫视,http://117.161.12.116/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 湖南卫视,http://120.224.178.16:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://124.128.73.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://116.9.204.242:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -860,13 +802,10 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225
 湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=ace
 湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225&amp
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000007275
 浙江卫视,http://18.162.122.10:5000/itv/ystenlive/1000000001000014260
 浙江卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265031
 浙江卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236171/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 浙江卫视,https://pi.0472.org/live/zjws.m3u8?token=162210
 浙江卫视,http://223.95.111.98:5555/newlive/live/hls/17/live.m3u8
 浙江卫视,http://183.134.3.22:8888/newlive/live/hls/23/live.m3u8
@@ -897,7 +836,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 浙江卫视,http://60.29.124.66:6080/hls/33/index.m3u8$天津联通酒店
 浙江卫视,http://1.197.249.194:9901/tsfile/live/0124_1.m3u8$河南电信酒店
 浙江卫视,http://117.161.12.116/live/program/live/zjwshd8m/8000000/mnf.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
 浙江卫视,http://120.224.178.16:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://111.160.17.2:59901/tsfile/live/0001_40.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://124.128.73.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -920,9 +858,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=ace
 浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383&amp
 浙江卫视,http://223.105.252.60/PLTV/4/224/3221228147/index.m3u8?servicetype=1
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226034/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000003639
 东方卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000014098
 东方卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265018
@@ -948,7 +883,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 东方卫视,http://60.29.124.66:6080/hls/45/index.m3u8$天津联通酒店
 东方卫视,http://1.197.249.194:9901/tsfile/live/0107_1.m3u8$河南电信酒店
 东方卫视,http://117.161.12.116/live/program/live/dfwshd8m/8000000/mnf.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
 东方卫视,http://120.224.178.16:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://183.11.239.36:808/hls/114/index.m3u8
 东方卫视,https://tv.iill.top/migu/dfws
@@ -971,12 +905,9 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=ace
 东方卫视,http://223.105.252.60/PLTV/4/224/3221228150/index.m3u8?servicetype=1
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000020451
 北京卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265027
 北京卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236241/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8、
 北京卫视,https://pi.0472.org/live/bjws.m3u8?token=162210
 北京卫视,http://218.71.45.167:9999/udp/233.50.201.40:5140
 北京卫视,http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=43dbb4a601652fcaea2ddbd73cd2f2f488aff86faee350276951eadd10dfb441_1720508364_604800&fromCDN=ws
@@ -1000,7 +931,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 北京卫视,http://60.29.124.66:6080/hls/47/index.m3u8$天津联通酒店
 北京卫视,http://1.197.249.194:9901/tsfile/live/0122_1.m3u8$河南电信酒店
 北京卫视,http://117.161.12.116/live/program/live/bjwshd8m/8000000/mnf.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
 北京卫视,http://120.224.178.16:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://111.160.17.2:59901/tsfile/live/0001_28.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://124.128.73.58:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1026,8 +956,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=ace
 北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611&amp
 北京卫视,http://223.105.252.60/PLTV/4/224/3221228115/index.m3u8?servicetype=1
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000014861
 江苏卫视,http://18.162.122.10:5000/itv/ystenlive/1000000001000001828
 江苏卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265030
@@ -1055,7 +983,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 江苏卫视,http://111.160.17.2:59901/tsfile/live/0001_38.m3u8$联通酒店
 江苏卫视,http://1.197.249.194:9901/tsfile/live/0127_1.m3u8$河南电信酒店
 江苏卫视,http://117.161.12.116/live/program/live/jswshd8m/8000000/mnf.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
 江苏卫视,http://120.224.178.16:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://111.160.17.2:59901/tsfile/live/0001_38.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://124.128.73.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1081,7 +1008,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=ace
 江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=14912719076157451667&amp
 江苏卫视,http://223.105.252.60/PLTV/4/224/3221228099/index.m3u8?servicetype=1
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://18.162.122.10:5000/itv/ystenlive/1000000001000030159
 安徽卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000009954
 安徽卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265025
@@ -1107,7 +1033,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 安徽卫视,http://111.160.17.2:59901/tsfile/live/0001_32.m3u8$联通酒店
 安徽卫视,http://1.197.249.194:9901/tsfile/live/0130_1.m3u8$河南电信酒店
 安徽卫视,http://117.161.12.116/live/program/live/ahwshd8m/8000000/mnf.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
 安徽卫视,http://120.224.178.16:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://111.160.17.2:59901/tsfile/live/0001_32.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://124.128.73.58:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1125,7 +1050,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 安徽卫视,http://vapi.91kds.cc/live1/cqyx.m3u8?id=ahwshd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 安徽卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=2
 安徽卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=ace
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://18.162.122.10:5000/itv/ystenlive/1000000001000001096
 重庆卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265017
@@ -1150,8 +1074,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 重庆卫视,http://60.29.124.66:6080/hls/60/index.m3u8$天津联通酒店
 重庆卫视,http://1.197.249.194:9901/tsfile/live/0142_1.m3u8$河南电信酒店
 重庆卫视,http://117.161.12.116/live/program/live/cqws8m/8000000/mnf.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 重庆卫视,http://120.224.178.16:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://111.160.17.2:59901/tsfile/live/0001_31.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://124.128.73.58:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1175,7 +1097,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 重庆卫视,http://222.209.17.49:808/hls/32/index.m3u8
 重庆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cqws-hd/1.m3u8?innersid=2
 重庆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cqws-sd/1500.m3u8?innersid=ace
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000006119
 四川卫视,http://211.162.39.193:81/live/SCWS-1500k/live.m3u8
 四川卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236255/index.m3u8
@@ -1198,7 +1119,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 四川卫视,http://60.29.124.66:6080/hls/37/index.m3u8$天津联通酒店
 四川卫视,http://1.197.249.194:9901/tsfile/live/0123_1.m3u8$河南电信酒店
 四川卫视,http://117.161.12.116/live/program/live/scwshd/8000000/mnf.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
 四川卫视,http://120.224.178.16:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://111.160.17.2:59901/tsfile/live/0001_34.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://124.128.73.58:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1220,7 +1140,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933
 四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=ace
 四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933&amp
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000010584
 东南卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265033
 东南卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236151/index.m3u8
@@ -1242,7 +1161,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 东南卫视,http://dsk.cc/php/xxtv.php?id=dnws$学习强国
 东南卫视,http://183.66.13.82:60033/tsfile/live/0137_1.m3u8
 东南卫视,http://117.161.12.116/live/program/live/dnwshd8m/8000000/mnf.m3u8
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
 东南卫视,http://120.224.178.16:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://124.128.73.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://183.11.239.36:808/hls/55/index.m3u8
@@ -1263,9 +1181,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087
 东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=ace
 东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087&amp
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000007410
 深圳卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000002116
 深圳卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265028
@@ -1290,7 +1205,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 深圳卫视,http://60.29.124.66:6080/hls/43/index.m3u8$天津联通酒店
 深圳卫视,http://1.197.249.194:9901/tsfile/live/0126_1.m3u8$河南电信酒店
 深圳卫视,http://117.161.12.116/live/program/live/szwshd8m/8000000/mnf.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
 深圳卫视,http://120.224.178.16:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://111.160.17.2:59901/tsfile/live/0001_49.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://124.128.73.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1314,7 +1228,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758
 深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=ace
 深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758&amp
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://18.162.122.10:5000/itv/ystenlive/1000000001000014176
 广东卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000031076
 广东卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265034
@@ -1340,7 +1253,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 广东卫视,http://111.160.17.2:59901/tsfile/live/0001_48.m3u8$联通酒店
 广东卫视,http://60.29.124.66:6080/hls/29/index.m3u8$天津联通酒店
 广东卫视,http://117.161.12.116/live/program/live/gdwshd8m/8000000/mnf.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
 广东卫视,http://120.224.178.16:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://111.160.17.2:59901/tsfile/live/0001_48.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://124.128.73.58:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1367,13 +1279,10 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305
 广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=ace
 广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305&amp
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 广西卫视,http://61.190.129.195:8688/rtp/238.1.78.70:6432
 广西卫视,http://18.162.122.10:5000/itv/bestzb/5000000011000031118
 广西卫视,http://211.162.39.193:81/live/GXWS-1500k/live.m3u8
 广西卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236263/index.m3u8
-广西卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 广西卫视,https://pi.0472.org/live/gxws.m3u8?token=162210
 广西卫视,http://218.71.45.167:9999/udp/233.50.201.49:5140
 广西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=a71e93bbbb5e737e3ca6045ab8958d7b1f6b03b2cfcc398439f6b9111e29a053_1720509270_604800&fromCDN=ws
@@ -1439,11 +1348,9 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 南方卫视,http://222.129.139.229:8888/udp/239.3.1.161:8001
 南方卫视,http://123.113.249.203:8888/udp/239.3.1.161:8001
 南方卫视,http://222.129.139.91:8888/udp/239.3.1.161:8001
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 甘肃卫视,http://18.162.122.10:5000/itv/bestzb/5000000011000031121
 甘肃卫视,http://211.162.39.193:81/live/GSWS-1500k/live.m3u8
 甘肃卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236201/index.m3u8
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 甘肃卫视,http://218.71.45.167:9999/udp/233.50.201.149:5140
 甘肃卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=171a8342304b3c81ad3c96545782987d838c6b9fb512cc6905270159a52113c2_1720508692_604800&fromCDN=ws
 甘肃卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GSWS/index.m3u8?gMac=unknown&livodToken=1f008f9c479b5020aeef5a06fdc0eab078c524bf6bce296cb5ef2c1523a85824_1720518759_604800&fromCDN=ws
@@ -1471,12 +1378,10 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 甘肃卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1590536221_1219061924/envivo_v/2018/SD/gansu/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531261933&timezone=UTC&mtv_session=c42270b736c7f7ad784d63391d3520bc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9de29b7faceedf77d9b5796d2c8448a3
 甘肃卫视,http://itms4.sdlk.vip:6721/hls/221/index.m3u8
 甘肃卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=119
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000025843
 贵州卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236236/index.m3u8
 贵州卫视,https://pi.0472.org/live/gzws.m3u8?token=162210
 贵州卫视,http://218.71.45.167:9999/udp/233.50.201.69:5140
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u83
 贵州卫视,http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=6a5915a95f060a962a33247245c37399e22ab840d24f185001a19bada4f32095_1720505218_604800&fromCDN=ws
 贵州卫视,http://221.12.3.18:8980/live/贵州卫视/index.m3u8
 贵州卫视,http://fxgm.fxjf.work:19901/tsfile/live/0120_1.m3u8
@@ -1500,8 +1405,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 贵州卫视,http://60.29.124.66:6080/hls/63/index.m3u8$天津联通酒店
 贵州卫视,http://1.197.249.194:9901/tsfile/live/0120_1.m3u8$河南电信酒店
 贵州卫视,http://117.161.12.116/live/program/live/gzwshd8m/8000000/mnf.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
 贵州卫视,http://120.224.178.16:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://111.160.17.2:59901/tsfile/live/0001_46.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://124.128.73.58:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1524,7 +1427,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 河北卫视,http://60.10.225.157:555/udp/239.253.92.154:6011$源3-联通
 河北卫视,http://itms.xznet.org:41097/udp/239.254.200.174:6000$源4-电信
 河北卫视,http://60.7.56.50:4000/udp/239.253.92.154:6011$源5-联通
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://18.162.122.10:5000/itv/bestzb/5000000006000040016
 河北卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236242/index.m3u8
 河北卫视,https://pi.0472.org/live/hbws.m3u8?token=162210
@@ -1549,7 +1451,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 河北卫视,http://60.29.124.66:6080/hls/49/index.m3u8$天津联通酒店
 河北卫视,http://1.197.249.194:9901/tsfile/live/0117_1.m3u8$河南电信酒店
 河北卫视,http://117.161.12.116/live/program/live/hbwshd8m/8000000/mnf.m3u8
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
 河北卫视,http://120.224.178.16:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://111.160.17.2:59901/tsfile/live/0001_39.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://124.128.73.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1566,7 +1467,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 河北卫视,http://vapi.91kds.cc/live1/cqyx.m3u8?id=hewshd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 河北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hebeiws-sd/1500.m3u8?innersid=2
 河北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hebeiws-sd/1500.m3u8?innersid=ace
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://18.162.122.10:5000/itv/bestzb/5000000011000031119
 河南卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236218/index.m3u8
 河南卫视,https://pi.0472.org/live/hnws.m3u8?token=162210
@@ -1585,7 +1485,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 河南卫视,http://111.160.17.2:59901/tsfile/live/0001_47.m3u8$联通酒店
 河南卫视,http://1.197.249.194:9901/tsfile/live/0139_1.m3u8$河南电信1080
 河南卫视,http://117.161.12.116/live/program/live/hnwshd8m/8000000/mnf.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
 河南卫视,http://120.224.178.16:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://111.160.17.2:59901/tsfile/live/0001_47.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://124.128.73.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1603,18 +1502,10 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 河南卫视,http://vapi.91kds.cc/live1/cqyx.m3u8?id=hawshd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 河南卫视,http://1.196.249.219:808/hls/31/index.m3u8
 河南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=ace
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 黑龙江卫视,http://18.162.122.10:5000/itv/ystenlive/1000000001000001925
 黑龙江卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000016510
 黑龙江卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265029
 黑龙江卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236226/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 黑龙江卫视,https://pi.0472.org/live/hljws.m3u8?token=162210
 黑龙江卫视,http://218.71.45.167:9999/udp/233.50.201.42:5140
 黑龙江卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&livodToken=64cde00fa51eb520daec6aa6c1e3e90225906560d67b2607381a34d4431ebcc6_1720508553_604800&fromCDN=ws
@@ -1628,7 +1519,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 黑龙江卫视,http://111.160.17.2:59901/tsfile/live/0001_36.m3u8$联通酒店
 黑龙江卫视,http://60.29.124.66:6080/hls/28/index.m3u8$天津联通576
 黑龙江卫视,http://117.161.12.116/live/program/live/hljwshd8m/8000000/mnf.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
 黑龙江卫视,http://120.224.178.16:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://111.160.17.2:59901/tsfile/live/0001_36.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://124.128.73.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1646,8 +1536,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 黑龙江卫视,http://222.209.17.49:808/hls/19/index.m3u8
 黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480
 黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=ace
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://18.162.122.10:5000/itv/ystenlive/1000000001000024621
 湖北卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000015436
 湖北卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265023
@@ -1673,7 +1561,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 湖北卫视,http://60.29.124.66:6080/hls/36/index.m3u8$天津联通酒店
 湖北卫视,http://1.197.249.194:9901/tsfile/live/0132_1.m3u8$河南电信酒店
 湖北卫视,http://117.161.12.116/live/program/live/hubeiws8m/8000000/mnf.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
 湖北卫视,http://120.224.178.16:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://111.160.17.2:59901/tsfile/live/0001_29.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://124.128.73.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1695,13 +1582,11 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 湖北卫视,http://222.209.17.49:808/hls/25/index.m3u8
 湖北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=2
 湖北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=ace
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 江西卫视,http://18.162.122.10:5000/itv/ystenlive/1000000006000268001
 江西卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265032
 江西卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236212/index.m3u8
 江西卫视,https://pi.0472.org/live/jxws.m3u8?token=162210
 江西卫视,http://218.71.45.167:9999/udp/233.50.201.53:5140
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226344/index.m3u8
 江西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=84e38030fc4f1248603777a24ade5ab82ef30103522330bb3444634a1b66307f_1720509019_604800&fromCDN=ws
 江西卫视,http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=474c90d882097b2d562398658075287e1e21930013b659af3a1922509cd4bbd1_1720505073_604800&fromCDN=ws
 江西卫视,http://gouwu.pthv.gitv.tv:91/live/JXWShd-8M/live.m3u8
@@ -1720,7 +1605,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 江西卫视,http://60.29.124.66:6080/hls/39/index.m3u8$天津联通酒店
 江西卫视,http://1.197.249.194:9901/tsfile/live/0138_1.m3u8$河南电信酒店
 江西卫视,http://117.161.12.116/live/program/live/jxws8m/8000000/mnf.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
 江西卫视,http://111.160.17.2:59901/tsfile/live/0001_43.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://124.128.73.58:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://183.11.239.36:808/hls/44/index.m3u8
@@ -1743,7 +1627,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736
 江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=ace
 江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736&amp
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://18.162.122.10:5000/itv/bestzb/5000000011000031117
 吉林卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236268/index.m3u8
 吉林卫视,http://218.71.45.167:9999/udp/233.50.201.48:5140
@@ -1761,7 +1644,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 吉林卫视,http://111.160.17.2:59901/tsfile/live/0001_37.m3u8$联通酒店
 吉林卫视,http://60.29.124.66:6080/hls/44/index.m3u8$天津联通酒店
 吉林卫视,http://117.161.12.116/live/program/live/jlwshd8m/8000000/mnf.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
 吉林卫视,http://111.160.17.2:59901/tsfile/live/0001_37.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://124.128.73.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://183.11.239.36:808/hls/10/index.m3u8
@@ -1786,8 +1668,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=ace
 吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=11095614579634751142&amp
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 内蒙古卫视,http://61.190.129.195:8688/rtp/238.1.78.103:6696
 内蒙古卫视,http://211.162.39.193:81/live/NMGWS-1500k/live.m3u8
 内蒙古卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236270/index.m3u8
@@ -1818,12 +1698,9 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 内蒙古卫视,http://vapi.91kds.cc/live1/cqyx.m3u8?id=nmgws&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 内蒙古卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nmws-sd/1500.m3u8?innersid=ace
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 辽宁卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000011671
 辽宁卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265022
 辽宁卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236161/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 辽宁卫视,https://pi.0472.org/live/lnws.m3u8?token=162210
 辽宁卫视,http://218.71.45.167:9999/udp/233.50.201.60:5140
 辽宁卫视,http://gzcyl001.3322.org:8081/hls/44/index.m3u8
@@ -1841,7 +1718,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 辽宁卫视,http://111.160.17.2:59901/tsfile/live/0001_41.m3u8$联通酒店
 辽宁卫视,http://60.29.124.66:6080/hls/40/index.m3u8$天津联通酒店
 辽宁卫视,http://117.161.12.116/live/program/live/lnwshd8m/8000000/mnf.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
 辽宁卫视,http://120.224.178.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://111.160.17.2:59901/tsfile/live/0001_41.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://124.128.73.58:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1866,8 +1742,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697
 辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=ace
 辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697&amp
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 宁夏卫视,http://61.190.129.195:8688/rtp/238.1.78.109:6744
 宁夏卫视,http://211.162.39.193:81/live/NXWS-1500k/live.m3u8
 宁夏卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236209/index.m3u8
@@ -1901,8 +1775,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 宁夏卫视,http://vapi.91kds.cc/live1/cqyx.m3u8?id=nxws&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=2
 宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=ace
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 青海卫视,http://61.190.129.195:8688/rtp/238.1.78.102:6688
 青海卫视,http://18.162.122.10:5000/itv/ystenlive/1000000002000013359
 青海卫视,http://211.162.39.193:81/live/QHWS-1500k/live.m3u8
@@ -1931,7 +1803,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 青海卫视,p3p://173.208.176.178:31809/63ec4bd00007d193e441eb97059d6779
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://vapi.91kds.cc/live1/cqyx.m3u8?id=qhws&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://18.162.122.10:5000/itv/ystenlive/1000000001000016568
 山东卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000004134
 山东卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265019
@@ -1953,7 +1824,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 山东卫视,http://183.66.13.82:60033/tsfile/live/0131_1.m3u8
 山东卫视,http://1.197.249.194:9901/tsfile/live/0131_1.m3u8$河南电信酒店
 山东卫视,http://117.161.12.116/live/program/live/sdws8m/8000000/mnf.m3u8
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
 山东卫视,http://120.224.178.16:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://124.128.73.58:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://183.11.239.36:808/hls/43/index.m3u8
@@ -1973,8 +1843,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=2
 山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100
 山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=ace
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000006827
 天津卫视,http://18.162.122.10:5000/itv/wasusyt/6000000001000009186
 天津卫视,http://18.162.122.10:5000/itv/ystenlive/1000000005000265026
@@ -2000,7 +1868,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 天津卫视,http://183.66.13.82:60033/tsfile/live/0135_1.m3u8
 天津卫视,http://111.160.17.2:59901/tsfile/live/0001_21.m3u8$联通酒店
 天津卫视,http://117.161.12.116/live/program/live/tjwshd8m/8000000/mnf.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 天津卫视,http://120.224.178.16:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://111.160.17.2:59901/tsfile/live/0001_21.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://124.128.73.58:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2019,11 +1886,9 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 天津卫视,http://222.209.17.49:808/hls/24/index.m3u8
 天津卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=2
 天津卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=ace
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 海南卫视,http://18.162.122.10:5000/itv/bestzb/5000000004000006211
 海南卫视,http://211.162.39.193:81/live/LYWS-1500k/live.m3u8
 海南卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236232/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 海南卫视,https://pi.0472.org/live/hinws.m3u8?token=162210
 海南卫视,http://218.71.45.167:9999/udp/233.50.201.55:5140
 海南卫视,http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=2b30d57372713ae10ee004113d8ce4b737f5bd7631a1bd4bf19aa667cd535f27_1720505278_604800&fromCDN=ws
@@ -2040,7 +1905,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 海南卫视,http://111.160.17.2:59901/tsfile/live/0001_35.m3u8$联通酒店
 海南卫视,http://60.29.124.66:6080/hls/31/index.m3u8$天津联通酒店
 海南卫视,http://117.161.12.116/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
 海南卫视,http://120.224.178.16:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://111.160.17.2:59901/tsfile/live/0001_35.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://183.11.239.36:808/hls/124/index.m3u8
@@ -2059,8 +1923,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 海南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=2
 海南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lyws-sd/1500.m3u8?innersid=ace
 海南卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=473
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 新疆卫视,http://61.190.129.195:8688/rtp/238.1.78.110:6752
 新疆卫视,http://211.162.39.193:81/live/XJWS-1500k/live.m3u8
 新疆卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236215/index.m3u8
@@ -2098,7 +1960,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2
 新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=ace
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
-云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南卫视,http://61.190.129.195:8688/rtp/238.1.78.89:6584
 云南卫视,http://18.162.122.10:5000/itv/bestzb/5000000011000031120
 云南卫视,http://211.162.39.193:81/live/YNWS-1500k/live.m3u8
@@ -2142,8 +2003,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=8984720984732853831
 云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=ace
 云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=17488930753778751907&amp
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 西藏卫视,http://61.190.129.195:8688/rtp/238.1.78.101:6680
 西藏卫视,http://211.162.39.193:81/live/XZWS-1500k/live.m3u8
 西藏卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236274/index.m3u8
@@ -2189,8 +2048,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 兵团卫视,http://61.190.129.195:8688/rtp/238.1.78.104:6704
 兵团卫视,http://211.162.39.193:81/live/BTWS-1500k/live.m3u8
 兵团卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236191/index.m3u8
-兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-兵团卫视,http:/[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
 兵团卫视,http://218.71.45.167:9999/udp/233.50.201.72:5140
 兵团卫视,http://jxcbn.ws-cdn.gitv.tv/hls/BTWS/index.m3u8?gMac=unknown&livodToken=83a3810080e0b3c734cf2d5b8af63c6c09fd0d9ff4b4d8d2361338a2c2193610_1720509400_604800&fromCDN=ws
@@ -2218,7 +2075,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 安多卫视,http://27.40.16.70:8114/GD_CUCC/G_ANDUO.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
 安多卫视,http://dsk.cc/php/xxtv.php?id=adws$学习强国
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
@@ -2227,7 +2083,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 康巴卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236185/index.m3u8
 康巴卫视,http://27.40.16.70:8114/GD_CUCC/G_KANGBA.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
 康巴卫视,http://dsk.cc/php/xxtv.php?id=kbws$学习强国
-康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 康巴卫视,http://118.122.2.29:9999/hls/39/index.m3u8
 康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
 农林卫视,http://27.40.16.70:8114/GD_CUCC/G_NONGLIN.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
@@ -2255,7 +2110,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 三沙卫视,http://vapi.91kds.cc/live1/cqyx.m3u8?id=ssws&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 延边卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236229/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 延边卫视,http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8
 延边卫视,http://27.40.16.70:8114/GD_CUCC/G_YANBIAN.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace
 延边卫视,http://wuqianmu.synology.me:4000/udp/232.0.0.161:1234$辽宁联通 组播
@@ -2280,14 +2134,12 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 东森幼幼,p3p://108.181.32.169:47512/6430b41c0001f3831798d72948126428
 东森幼幼,p3p://167.114.175.6:55331/62c9a6bb000ac34dc6a767036c5f3878
 黑莓动画,http://hwltc.tv.cdn.zj.chinamobi ... 21236261/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://112.102.217.173:9003//hls/100/index.m3u8
 卡酷少儿,http://61.190.129.195:8688/rtp/238.1.78.97:6648
 卡酷少儿,http://nas.hssvm.com:8888/udp/225.1.1.58:5002
 卡酷少儿,http://60.29.124.66:6080/hls/58/index.m3u8$天津联通酒店
 卡酷少儿,http://60.255.240.247:8090/live/kkkt_4000.m3u8
 卡酷少儿,http://117.161.12.116/live/program/live/kkse8m/8000000/mnf.m3u8
-卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 卡酷少儿,http://dsk.cc/bjtv/btime.php?id=bjkk$北京时间网
 卡酷少儿,http://221.219.65.45:18888/udp/239.3.1.189:8000
 卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
@@ -2306,7 +2158,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 哈哈炫动,http://paofan.boyi56.cn:4022/udp/239.45.1.55:5140
 哈哈炫动,http://nas.hssvm.com:8888/udp/225.1.1.62:5002
 哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8$天津联通酒店
-哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 哈哈炫动,http://101.65.33.225:9901/tsfile/live/1002_1.m3u8
 哈哈炫动,http://60.12.183.46:9901/tsfile/live/0141_1.m3u8
 哈哈炫动,http://58.57.40.22:9901/tsfile/live/1061_1.m3u8
@@ -2338,7 +2189,6 @@ CGTN西班牙语,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p
 金鹰卡通,http://vapi.91kds.cc/live1/cqyx.m3u8?id=hnjykt&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 金鹰卡通,http://222.209.17.49:808/hls/21/index.m3u8
 优漫卡通,http://edc.dsmv.top:7777/udp/239.49.8.119:8000
-优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 优漫卡通,http://tvbox6.com/tv/jstv.php?id=jskt
 优漫卡通,http://42.48.197.146:8899/hls/64/index.m3u8
 优漫卡通,http://112.102.217.173:9003//hls/74/index.m3u8
@@ -2352,13 +2202,11 @@ CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy$高清
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC动作电影,http://cg1.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?t=GybtsMb6rF4QAbWTetat6g%3D%3D&u=HNTV01YU00021202&p=8&cid=100000189&pid=&l=1&d=48555E45F7FC&ip=192.168.197.8&n=CHCDZDY_8000&errorcode=0&sid=Cr7LfDpXE67QA0Nus2tGvg%3D%3D&r=20231212111337&e=20231212151337&nc=RcaFZlcDLlzv&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422696805&srchost=172.16.22.158:8060&gid=f1hKFIYFjbQUf%2BTk5FhuTg%3D%3D$湖南广电
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CHC动作电影,http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC动作电影,http://27.17.111.252:8118/udp/239.69.1.242:11094
 CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
 CHC动作电影,http://149.88.85.102:1354/cqyx.php?id=chcdz
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8
 CHC动作电影,p3p://167.114.175.6:55331/63ec4d4200074d64e44790cb67ae7b20
 CHC动作电影,http://vapi.91kds.cc/live1/cqyx.m3u8?id=chcdz&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 CHC高清电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy$高清
@@ -2373,7 +2221,6 @@ CHC家庭影院,http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CHC家庭影院,http://60.255.240.247:8090/live/jbtygqCHCjtyyH265_4000.m3u8
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC家庭影院,http://27.17.111.252:8118/udp/239.69.1.243:11100
@@ -2382,15 +2229,11 @@ CHC家庭影院,http://149.88.85.102:1354/cqyx.php?id=chcjt
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8
 CHC家庭影院,p3p://167.114.175.6:55331/63ec4d000006b5ebe4468ed8604807ac
 CHC家庭影院,http://vapi.91kds.cc/live1/cqyx.m3u8?id=chcjt&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV动作电影,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 NewTV动作电影,http://111.12.101.22:6610/PLTV/77777777/224/3221225703/index.m3u8?%24
 黑莓电影,http://hwltc.tv.cdn.zj.chinamobi ... 21236248/index.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://39.135.32.236:6610/PLTV/77777777/224/3221225740/index.m3u8?
@@ -2419,7 +2262,6 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 爱谍战,http://hwltc.tv.cdn.zj.chinamobi ... 21230092/index.m3u8
 爱历史,http://hwltc.tv.cdn.zj.chinamobi ... 21230100/index.m3u8
 爱旅行,http://hwltc.tv.cdn.zj.chinamobi ... 21230052/index.m3u8
-爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://hwltc.tv.cdn.zj.chinamobi ... 21236179/index.m3u8
 爱赛车,http://hwltc.tv.cdn.zj.chinamobi ... 21230032/index.m3u8
 爱体育,http://hwltc.tv.cdn.zj.chinamobi ... 21230103/index.m3u8
@@ -2440,7 +2282,6 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 百视通,http://39.134.136.161:6610/000000001000/2000000002000000028/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000028
 百视通,http://39.134.136.161:6610/000000001000/2000000002000000029/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000029
 百视通,http://39.134.136.161:6610/000000001000/2000000002000000030/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000030
-北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
 北京纪实科教,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8$官方8K
 北京纪实科教,http://221.219.65.45:18888/udp/239.3.1.115:8000
@@ -2450,17 +2291,10 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 北京卡酷少儿,http://115.171.216.91:4000/udp/225.1.8.130:8002
 北京卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
 北京卡酷少儿,http://vapi.91kds.cc/live1/cqyx.m3u8?id=btvkk&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电影,http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 超级电影,http://112.102.217.173:9003//hls/85/index.m3u8
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://112.102.217.173:9003//hls/86/index.m3u8
-超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 超级综艺,http://112.102.217.173:9003//hls/87/index.m3u8
-潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 动作电影,http://hwltc.tv.cdn.zj.chinamobi ... 21236183/index.m3u8
 动作电影,http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
 动作电影,http://kxrj.site:1258/69986p/mg9.php?id=chcdz
@@ -2468,7 +2302,6 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 动作电影,p3p://173.208.176.178:31809/63ec4d4200074d64e44790cb67ae7b20
 动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 古装剧场,http://hwltc.tv.cdn.zj.chinamobi ... 21236240/index.m3u8
-古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 古装剧场,http://221.219.65.45:18888/udp/239.3.1.69:4120
 古装剧场,http://115.171.216.91:4000/udp/225.1.8.229:4120
 广东嘉佳卡通,http://111.229.155.66:7722/timetv.php?type=gdtv&channel=gdkt
@@ -2536,42 +2369,30 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 湖南经视,http://42.48.197.146:8899/hls/56/index.m3u8
 湖南经视,http://220.170.241.204:9901/tsfile/live/1001_1.m3u8
 湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
-欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 欢乐剧场,http://hwltc.tv.cdn.zj.chinamobi ... 21236173/index.m3u8
 欢笑剧场4K,http://nas.hssvm.com:8888/udp/225.1.1.139:5002
-家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 家庭剧场,http://hwltc.tv.cdn.zj.chinamobi ... 21236206/index.m3u8
 家庭剧场,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=290
 江苏财富天下,http://120.76.248.139/live/bfgd/4200000231.m3u8
-金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 金牌综艺,http://hwltc.tv.cdn.zj.chinamobi ... 21236282/index.m3u8
 金牌综艺,http://112.102.217.173:9003//hls/90/index.m3u8
 惊悚悬疑,http://hwltc.tv.cdn.zj.chinamobi ... 21236223/index.m3u8
 精彩影视,http://111.160.17.2:59901/tsfile/live/0001_27.m3u8?key=txiptv&playlive=1&authid=0
-精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 精品大剧,http://hwltc.tv.cdn.zj.chinamobi ... 21236239/index.m3u8
 精品记录,http://hwltc.tv.cdn.zj.chinamobi ... 21236276/index.m3u8
-精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 精品萌宠,http://39.134.136.161:6610/000000001000/1000000006000032328/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000032328
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://hwltc.tv.cdn.zj.chinamobi ... 21236300/index.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
 精品体育,http://112.102.217.173:9003//hls/89/index.m3u8
-军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 军旅剧场,http://hwltc.tv.cdn.zj.chinamobi ... 21236278/index.m3u8
 军旅剧场,http://221.219.65.45:18888/udp/239.3.1.68:4120
 军旅剧场,http://115.171.216.91:4000/udp/225.1.8.228:4120
-军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 军事评论,http://hwltc.tv.cdn.zj.chinamobi ... 21236155/index.m3u8
 卡酷动画,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=kkdh
 卡酷动画,http://183.66.13.82:60033/tsfile/live/0126_2.m3u8
 卡酷动画,http://42.48.197.146:8899/hls/63/index.m3u8
-咪咕全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 咪咕全民热练,http://122.96.29.196:8014/2000000003000000068/hnbblive/index.m3u8$8M1080_湖南bblive
 咪咕全民热练,http://122.96.29.196:8014/1000000006000270007/ystenlive/index.m3u8$8M1080_易视腾
 咪咕全民热练,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/3000000020000031315.m3u8%3Fcdn%3DFifastbLive
-咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕体育28,http://39.134.136.161:6610/000000001000/3000000010000002019/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000002019
 咪咕体育29,http://39.134.136.161:6610/000000001000/3000000010000002032/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000002032
 咪咕体育30,http://39.134.136.161:6610/000000001000/3000000010000004464/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000004464
@@ -2600,8 +2421,6 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 咪咕体育53,http://39.134.136.161:6610/000000001000/3000000010000027638/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000027638
 咪咕体育54,http://39.134.136.161:6610/000000001000/3000000010000031669/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000031669
 咪咕体育55,http://39.134.136.161:6610/000000001000/3000000010000032106/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000032106
-明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 农业致富,http://hwltc.tv.cdn.zj.chinamobi ... 21236233/index.m3u8
 求索动物,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=287
 求索动物,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/6000000002000010046.m3u8%3Fcdn%3Dwasusyt
@@ -2618,7 +2437,6 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 上视乐游,http://39.134.136.161:6610/000000001000/2000000002000000059/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000059
 上视新闻综合,http://39.134.136.161:6610/000000001000/2000000002000000005/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000005
 上视游戏风云,http://39.134.136.161:6610/000000001000/2000000002000000011/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000011
-武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 先锋乒羽,http://nas.hssvm.com:8888/udp/225.1.1.219:5002
 先锋乒羽,http://60.255.240.247:8090/live/xfpy_4000.m3u8
 先锋乒羽,http://tvbox6.icu/tv/mgtv.php?id=329$「芒果TV」
@@ -2627,12 +2445,9 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 先锋乒羽,http://120.76.248.139/live/bfgd/4200000349.m3u8
 先锋乒羽,http://vapi.91kds.cc/live1/cqyx.m3u8?id=hnxfpy&apiKey=73c963d13814ce7d0e4743c5e7d033cc
 炫舞未来,http://hwltc.tv.cdn.zj.chinamobi ... 21236230/index.m3u8
-炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 怡伴健康,http://hwltc.tv.cdn.zj.chinamobi ... 21236220/index.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 中国功夫,http://hwltc.tv.cdn.zj.chinamobi ... 21236267/index.m3u8
 中国天气,http://dassby.qqff.top:99/live/中国天气/index.m3u8
 中国天气,http://nas.hssvm.com:8888/udp/225.1.2.119:5002
