@@ -2440,7 +2440,6 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 卡酷动画,http://42.48.197.146:8899/hls/63/index.m3u8
 咪咕全民热练,http://122.96.29.196:8014/2000000003000000068/hnbblive/index.m3u8$8M1080_湖南bblive
 咪咕全民热练,http://122.96.29.196:8014/1000000006000270007/ystenlive/index.m3u8$8M1080_易视腾
-咪咕全民热练,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/3000000020000031315.m3u8%3Fcdn%3DFifastbLive
 咪咕体育28,http://39.134.136.161:6610/000000001000/3000000010000002019/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000002019
 咪咕体育29,http://39.134.136.161:6610/000000001000/3000000010000002032/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000002032
 咪咕体育30,http://39.134.136.161:6610/000000001000/3000000010000004464/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000004464
@@ -2471,13 +2470,9 @@ PPTV11,http://39.134.136.161:6610/000000001000/3000000001000026778/index.m3u8?li
 咪咕体育55,http://39.134.136.161:6610/000000001000/3000000010000032106/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000032106
 农业致富,http://hwltc.tv.cdn.zj.chinamobi ... 21236233/index.m3u8
 求索动物,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=287
-求索动物,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/6000000002000010046.m3u8%3Fcdn%3Dwasusyt
 求索纪录,http://60.2.190.206:4000/udp/239.253.93.236:6414
 求索纪录,http://vapi.91kds.cc/live1/cqyx.m3u8?id=qsjl&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-求索纪录,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/6000000002000032052.m3u8%3Fcdn%3Dwasusyt
-求索科学,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/6000000002000032344.m3u8%3Fcdn%3Dwasusyt
 求索生活,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=288
-求索生活,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/6000000002000003382.m3u8%3Fcdn%3Dwasusyt
 上视动漫秀场,http://39.134.136.161:6610/000000001000/2000000002000000009/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000009
 上视都市剧场,http://39.134.136.161:6610/000000001000/2000000002000000015/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000015
 上视纪实人文,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=shjsrw
