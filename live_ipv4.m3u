@@ -3024,36 +3024,38 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655$标�
 #EXTINF:-1 tvg-id="4" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
 http://php.jdshipin.com:8880/xsj.php?id=gdzj
 #EXTINF:-1 tvg-id="5" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://php.jdshipin.com:8880/chudian.php?id=gdzj
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-id="6" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://www.terrykang.xyz:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
 #EXTINF:-1 tvg-id="7" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://mzitv.cn:32/tsfile/live/1006_1.m3u8
+http://www.terrykang.xyz:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="8" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://120.77.205.62:8087/rtp/239.77.0.1:5146
+http://mzitv.cn:32/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://gmxw.7766.org:808/hls/83/index.m3u8
+http://120.77.205.62:8087/rtp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="10" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://183.11.239.36:808/hls/83/index.m3u8
+http://gmxw.7766.org:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://119.125.134.176:9901/tsfile/live/1003_1.m3u8
+http://183.11.239.36:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://14.212.185.71:9901/tsfile/live/1000_1.m3u8
+http://119.125.134.176:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://222.218.158.25:8181/tsfile/live/1000_1.m3u8
+http://14.212.185.71:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://58.254.14.231:808/hls/55/index.m3u8
+http://222.218.158.25:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://47.92.130.115:9000/TVOD/2000000003000000033/hnbblive/index.m3u8?ace
+http://58.254.14.231:808/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://47.92.130.115:9000/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
+http://47.92.130.115:9000/TVOD/2000000003000000033/hnbblive/index.m3u8?ace
 #EXTINF:-1 tvg-id="17" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://36.251.58.50:6060/TVOD/2000000003000000033/hnbblive/index.m3u8?ace
+http://47.92.130.115:9000/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
 #EXTINF:-1 tvg-id="18" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://36.251.58.50:6060/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
+http://36.251.58.50:6060/TVOD/2000000003000000033/hnbblive/index.m3u8?ace
 #EXTINF:-1 tvg-id="19" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
-http://14.112.86.85:4022/udp/239.77.0.1:5146
+http://36.251.58.50:6060/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
 #EXTINF:-1 tvg-id="20" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
+http://14.112.86.85:4022/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="21" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="其他频道",广东珠江
 http://125.90.252.38:4022/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="1" tvg-name="湖南电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南电视剧.png" group-title="其他频道",湖南电视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
