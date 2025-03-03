@@ -1,3 +1,6 @@
+你需要将 `actions/checkout@v2` 和 `actions/cache@v2` 更新为最新版本（v3 或 v4）。以下是更新后的工作流文件：
+
+```yaml
 name: 汇聚多源每日更新
 
 on:
@@ -16,15 +19,15 @@ jobs:
 
     steps:
     - name: Checkout repository  # 步骤名称：检出代码库
-      uses: actions/checkout@v2  # 使用 actions/checkout@v2 操作
+      uses: actions/checkout@v3  # 使用 actions/checkout@v3 操作
 
     - name: Set up Python  # 步骤名称：设置 Python
-      uses: actions/setup-python@v2  # 使用 actions/setup-python@v2 操作
+      uses: actions/setup-python@v4  # 使用 actions/setup-python@v4 操作
       with:
         python-version: '3.10'  # Python 版本：3.10
 
     - name: Cache dependencies  # 步骤名称：缓存依赖
-      uses: actions/cache@v2  # 使用 actions/cache@v2 操作
+      uses: actions/cache@v3  # 使用 actions/cache@v3 操作
       with:
         path: ~/.cache/pip  # 缓存路径：~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}  # 缓存键：操作系统-pip-文件哈希
@@ -54,3 +57,6 @@ jobs:
 
     env:
       TZ: Asia/Shanghai  # 环境变量：设置时区为亚洲/上海
+```
+
+请更新你的 `.github/workflows/main.yml` 文件以使用上述内容。
