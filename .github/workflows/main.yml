@@ -54,6 +54,3 @@ jobs:
 
     env:
       TZ: Asia/Shanghai  # 环境变量：设置时区为亚洲/上海
-```
-
-请更新你的 `.github/workflows/main.yml` 文件以使用上述内容。
