@@ -1,7 +1,4 @@
-你需要将 `actions/checkout@v2` 和 `actions/cache@v2` 更新为最新版本（v3 或 v4）。以下是更新后的工作流文件：
-
-```yaml
-name: 汇聚多源每日更新
+name: '汇聚多源每日更新'
 
 on:
   schedule:
